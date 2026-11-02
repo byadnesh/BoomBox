@@ -1,8 +1,12 @@
 # BoomBox
 
+<p align="center">
+  <img src="docs/boombox-comic.svg" width="100%" alt="The Amazing BoomBox, an animated comic: pick a folder and a Linux ISO, wait about four minutes, and open a terminal in a separate Linux system.">
+</p>
+
 Pick a folder and a Linux Live ISO. The folder becomes a separate Linux system: no installer, no boot screen, no setup questions.
 
-Prefer pictures? Open [README-comic.html](README-comic.html) for the animated comic version.
+The longer comic is in [README-comic.html](README-comic.html). GitHub shows that file as code, so open it from a downloaded copy or GitHub Pages to see it animated.
 
 ## Using it
 
